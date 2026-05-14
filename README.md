@@ -104,5 +104,5 @@ A default administrator account is created when the database is imported.
 
 **Ahmet Kocacan**
 - **Role:** Backend .NET Developer
-- **GitHub:** [KarlAsmond](https://github.com/KarlAsmond)
+- **GitHub:** [ahmetKocacan](https://github.com/ahmetKocacan)
 - **LinkedIn:** [Ahmet Kocacan](https://www.linkedin.com/in/ahmet-kocacan-0735462b4/)
